@@ -1,6 +1,6 @@
 <?php
 
-include 'variables.php';
+include_once('variables.php');
 
 /*////////////////////////////////////////////////////
 //																									//
